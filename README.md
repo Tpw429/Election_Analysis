@@ -1,2 +1,2 @@
 # Election-Analysis
-Analysis of Election results through the programming language Python.
+Analysis of Election data and results through the programming language Python.
