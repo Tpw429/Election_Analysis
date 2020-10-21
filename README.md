@@ -8,12 +8,12 @@ The purpose of creating this Python program was to quickly and efficiently tally
 In this problem statement, I looked to address the following questions:
 
 * How many votes were cast in this congressional election?
-\Total Votes: 369,711
+Total Votes: 369,711
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-\Jefferson: 10.5% (38,855)
-\Denver: 82.8% (306,055)
-\Arapahoe: 6.7% (24,801)
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.\
+Jefferson: 10.5% (38,855)\
+Denver: 82.8% (306,055)\
+Arapahoe: 6.7% (24,801)
 
 * Which county had the largest number of votes?
 Largest Count Turnout: Denver
