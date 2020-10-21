@@ -34,7 +34,7 @@ When I ran this Python code through the Visual Studio Code program (VSC), I foun
 
 In addition to using the Terminal to see my results, I also thought it was important to display my results in txt file for others to see. Through my Python coding, I created a txt file to diplay my findings as well. The results of my txt file are shown below.
 
-![Voting Results from txt](Analysis/election_results.PNG)
+![Voting Results from txt](Analysis/election_analysis.PNG)
 
 ## Election-Audit Summary
 The code used to analyze the voting results is quite robust and can be used for future elections.
