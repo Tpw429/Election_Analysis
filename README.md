@@ -37,4 +37,4 @@ In addition to using the Terminal to see my results, I also thought it was impor
 ![Voting Results from txt](Analysis/election_analysis.PNG)
 
 ## Election-Audit Summary
-The code used to analyze the voting results is quite robust and can be used for future elections.
+The code used to analyze the voting results in this election is quite robust. In fact, I believe the foundation of this code can be used to determine elections in the future. Unlike some codes, this election code written searches for different candidates and creates them. This could be a huge problem if other codes did not account for all the parties being represented in the election. 
