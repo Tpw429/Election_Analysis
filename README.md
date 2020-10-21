@@ -32,7 +32,7 @@ When I ran this Python code through the Visual Studio Code program (VSC), I foun
 
 ![Voting Results](Resources/ResultsToTerminal.PNG)
 
-In addition to using the Terminal to see my results, I also thought it was important to display my results in txt file for others to see. Through my Python coding, I created a txt file to diplay my findings as well. The results of my txt file are shown below.
+In addition to using the Terminal to see my results, I also thought it was important to display my results in a txt file for others to see. Using Python, I created a .txt file to diplay my findings to others. The results of my .txt file are shown below from the VSC interface. I have uploaded the .txt file to the analysis folder in my GitHub respiratory.
 
 ![Voting Results from txt](Analysis/election_analysis.PNG)
 
