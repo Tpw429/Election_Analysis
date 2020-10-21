@@ -1,5 +1,11 @@
 # Election-Analysis
-Analysis of Election data and results through the programming language Python.
+Analysis of Election data and results through the programming language Python. With this exercise, I extracted raw data and found the total number of votes across a county. I gave statistics to support the number of votes each candidate received, found the county with the largest voter turnout, and declared a winner to the election.
+
+## Overview of Election-Audit
+The purpose of creating this Python program was to quickly and efficiently tally up the total number of votes for each candidate. This program is very useful, because it can be used going forward in the years to come. This program is adaptable in the sense that it will find new candidates and add votes to them depending on their name.
+
+## Election-Audit Results
+
 
 
 ![Voting Results](Resources/ResultsToTerminal.PNG)
