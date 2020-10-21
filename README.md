@@ -2,4 +2,4 @@
 Analysis of Election data and results through the programming language Python.
 
 
-![Voting Results](Resources/ResultsFor2017StocksRefactored.PNG)
+![Voting Results](Resources/ResultsToTerminal.PNG)
