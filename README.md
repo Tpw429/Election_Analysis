@@ -31,3 +31,8 @@ Winning Percentage: 73.8%
 When I ran this Python code through the Visual Studio Code program (VSC), I found the following results in my terminal. The answers to the questions above can be found in my terminal picture attached below.
 
 ![Voting Results](Resources/ResultsToTerminal.PNG)
+
+In addition to using the Terminal to see my results, I also thought it was important to display my results in txt file for others to see. Through my Python coding, I created a txt file to diplay my findings as well. The results of my txt file are shown below.
+
+## Election-Audit Summary
+The code used to analyze the voting results is quite robust and can be used for future elections.
