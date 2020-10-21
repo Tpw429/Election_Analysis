@@ -6,17 +6,30 @@ The purpose of creating this Python program was to quickly and efficiently tally
 
 ## Election-Audit Results
 In this problem statement, I looked to address the following questions:
-*How many votes were cast in this congressional election?
 
-*Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* How many votes were cast in this congressional election?
+Total Votes: 369,711
 
-*Which county had the largest number of votes?
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
 
-*Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+* Which county had the largest number of votes?
+Largest Count Turnout: Denver
 
-*Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Charles Casper Stockham: 23.0% (85,213)
 
+Diana DeGette: 73.8% (272,892)
 
-When I ran this Python code through the Visual Studio Code program (VSC), I found the following results in my terminal.
+Raymon Anthony Doane: 3.1% (11,606)
+
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+
+When I ran this Python code through the Visual Studio Code program (VSC), I found the following results in my terminal. The answers to the questions above can be found in my terminal picture attached below.
 
 ![Voting Results](Resources/ResultsToTerminal.PNG)
